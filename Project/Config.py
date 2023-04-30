@@ -1,0 +1,3 @@
+Channel_secret = 'd7252194e36239abc5d7549fdf1d4994'
+Channel_access_token = 'UZ2IE3uey1A45Ho/1z/DDP1qwWCGqQgtEbOdmKMsbhydbTxJYiABfCLBtMI1OAvHr/pN0hmKzf1mui9kTYG58DkCNn4OztOOnQX3Pev8h9dwrLUAF9E0TZQz5+7Lsa+XJXejmoC4wqhzwMOf1QnLdgdB04t89/1O/w1cDnyilFU='
+basic_id = '@574ahimq'
